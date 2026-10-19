@@ -1,6 +1,6 @@
 # Võ Thị Thu Phương
 
-![Ảnh đại diện](https://avatars.githubusercontent.com/u/190875466)
+![Ảnh đại diện](avatar.jpg.jpg)
 
 ## Giới thiệu bản thân
 
