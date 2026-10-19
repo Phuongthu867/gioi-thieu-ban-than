@@ -1,6 +1,6 @@
 # Võ Thị Thu Phương
 
-![Ảnh đại diện](avatar.jpg.jpg)
+![Ảnh đại diện](avatar.jpg)
 
 ## Giới thiệu bản thân
 
